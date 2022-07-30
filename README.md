@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Aquí hay algunas ideas para comenzar:
+Aquí hay algunos datos sobre mi:
 
 - 🔭 Actualmente estoy trabajando en ninguna parte :)
 - 🌱 Actualmente estoy aprendiendo programación y diseño gráfico.
